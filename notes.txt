@@ -1,0 +1,6 @@
+D:\Teacup\MyLearning\Angular\StephenGrider\Angular_PasswordGeneratorApp> ng new myapp
+to start server:npm start
+or 
+ng serve
+control+C to stop server
+
